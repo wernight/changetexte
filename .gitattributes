@@ -1,0 +1,4 @@
+* text=auto
+
+*.MAK text eol=crlf
+*.bas text eol=crlf
